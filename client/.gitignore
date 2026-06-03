@@ -1,3 +1,4 @@
+git rm --cached server/.env
 # Logs
 logs
 *.log
